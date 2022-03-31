@@ -34,7 +34,7 @@ export const componentSetup: ComponentSetup & { examples: Component[] } = {
 	htmlSlots,
 	i18n: i18nLanguages,
 	examples,
-	name: "hb-skeleton-component",
+	name: "skel-skeleton-component",
 	category: "dev",
 	tags: ["dev"],
 	size: {},
