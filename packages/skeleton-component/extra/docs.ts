@@ -9,7 +9,7 @@ export const storybookArgs = {
 };
 
 const cssVars: CssVar[] = [];
-export const cssParts: CssPart[] = [];
+export const cssParts: CssPart[] = [{ name: "testpart", description: "test css part on 2 div tag" }];
 export const htmlSlots: HtmlSlot[] = [];
 export const i18nLanguages: i18nLang[] = [];
 
@@ -39,6 +39,6 @@ export const componentSetup: ComponentSetup & { examples: Component[] } = {
 	tags: ["dev"],
 	size: {},
 	iifePath: "release/release.js",
-	repoName: "@htmlbricktest/skel-skeleton-component",
+	repoName: "@htmlbricks/hb-skeleton-component",
 	version: null,
 };
