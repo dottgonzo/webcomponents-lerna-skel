@@ -39,6 +39,6 @@ export const componentSetup: ComponentSetup & { examples: Component[] } = {
 	tags: ["dev"],
 	size: {},
 	iifePath: "release/release.js",
-	repoName: "@htmlbricktest/hb-skeleton-component",
+	repoName: "@htmlbricktest/skel-skeleton-component",
 	version: null,
 };
