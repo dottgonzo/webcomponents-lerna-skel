@@ -16,7 +16,7 @@ export const webComponentBind = (
     const script = document.createElement("script");
     script.id = "skel-" + componentName + "-script";
     script.src = !window.location.href.includes("localhost")
-      ? `https://cdn.jsdelivr.net/npm/@@htmlbricktest/skel-${componentName}@${version}/release/release.js`
+      ? `https://cdn.jsdelivr.net/npm/@htmlbricktest/skel-${componentName}@${version}/release/release.js`
       : `http://localhost:6006/${componentName}/dist/release.js`;
     document.body.appendChild(script);
   }

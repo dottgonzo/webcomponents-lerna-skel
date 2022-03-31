@@ -1,5 +1,5 @@
 {
-	"name": "skel-skeleton-component",
+	"name": "@htmlbricktest/skel-skeleton-component",
 	"displayName": "Svelte-Bootstrap skeleton-component",
 	"description": "Svelte-Bootstrap skeleton-component",
 	"version": "0.10.12",
