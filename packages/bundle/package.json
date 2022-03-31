@@ -2,7 +2,7 @@
   "name": "@htmlbricktest/skel-bundle",
   "displayName": "HTMLBricks bundle",
   "description": "HTMLBricks bundle",
-  "version": "0.10.15",
+  "version": "0.10.16",
   "main": "release/release.js",
   "publishConfig": {
     "access": "public"
