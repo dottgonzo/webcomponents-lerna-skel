@@ -1,0 +1,8 @@
+node_modules/
+.git/
+bootstrap/
+bootstrap-override/
+.vscode/
+.gitignore
+.nvmrc
+buildAndPush.sh
